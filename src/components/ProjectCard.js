@@ -7,7 +7,7 @@ const ProjectCard = ({ title, description, imgUrl, url }) => {
       <div className="portfolio-layer">
         <h4>{title}</h4>
         <p>{description}</p>
-        <a href={url} target="_blank" rel="noreferrer">
+        <a href={url} target="_blank" rel="noopener noreferrer">
           <FiExternalLink />
         </a>
       </div>

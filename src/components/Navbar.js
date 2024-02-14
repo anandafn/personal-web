@@ -83,9 +83,9 @@ const NavBar = () => {
             </div>
             <a
               className="cta"
-              href="https://drive.google.com/file/d/1Yl5PP6t0_XDhN75FulMKyrVWltrjrCrJ/view?usp=sharing"
+              href="https://drive.google.com/file/d/1HNP20IXImu96iyj1e2b0AzNlYjwPm97e/view?usp=sharing"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               <span>My Resume</span>
             </a>
